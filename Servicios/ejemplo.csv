@@ -1,0 +1,3 @@
+Origen,Destino,Fecha,Hora,TipoVehiculo,Reservacion,Tarifa,Costo,Cliente,Pasajeros,Proveedor,Notas,Solicitante
+CDMX,Queretaro,2000-03-30,10:30,Van,A101,CDMX,,21,Rene/Rodolfo,,Solicitante de prueba
+CDMX,Queretaro,2000-03-30,11:30,Carro,A102,Personalizado,2000,21,Rene/Test/test2/test 3,,Nota de prueba, Yo
